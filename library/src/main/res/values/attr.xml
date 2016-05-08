@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BannerTextView">
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="ellipsize" format="enum">
+            <enum name="start" value="1"/>
+            <enum name="end" value="2"/>
+            <enum name="middle" value="3"/>
+            <enum name="none" value="4"/>
+        </attr>
+    </declare-styleable>
+</resources>
