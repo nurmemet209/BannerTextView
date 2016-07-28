@@ -4,3 +4,9 @@ bannertextview
 <br>
 <br>
 <img src="bannertextview.gif"/>
+
+gradle 引用
+---------
+```gradle
+compile 'com.ra:library:1.0.0'
+```
