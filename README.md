@@ -8,5 +8,5 @@ bannertextview
 gradle 引用
 ---------
 ```gradle
-compile 'com.ra:library:1.0.0'
+compile 'com.ra:library:1.0.0@aar'
 ```
